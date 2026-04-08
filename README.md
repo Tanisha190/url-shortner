@@ -1,4 +1,4 @@
-# URL Shortener API
+# URL Shortener
 
 A Node.js + Express API for shortening URLs, user authentication with JWT, and redirecting short links to the original URL.
 
